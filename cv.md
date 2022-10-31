@@ -1,17 +1,18 @@
-#Irina Vorobei
-####Junior Front End Developer
+# Irina Vorobei 
+
+#### Junior Front End Developer
 ******
-![Alt-Photo] ()
-###ABOUT ME
+
+### ABOUT ME
 
 Successful Travel manager with more than 10 years of professional experience. Driven self-starter and fast learner. Start studding in IT (HTML and CSS)
 
-###CONTACTS
+### CONTACTS
 * **vorobei.irina@gmail.com**
 * **+48574112756**
 ******
 
-###WORK EXPERIENCE
+### WORK EXPERIENCE
 
 * **Travel Manager** *Coral Travel agency - AUGUST 2013 — FEBRUARY 2022, Kyiv Ukraine*
     Oversaw the issuing airline tickets of business class.
