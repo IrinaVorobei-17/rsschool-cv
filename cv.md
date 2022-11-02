@@ -1,15 +1,4 @@
-:::row:::
-   :::column span="":::
-      ![photo Irina Vorobei](/images/photo.jpeg)
-   :::column-end:::
-   :::column span="2":::
-      # Irina Vorobei
-
-      #### Junior Front End Developer
-   :::column-end:::
-:::row-end:::
-
-![photo Irina Vorobei](/images/photo.jpg)
+![photo Irina Vorobei](/images/photo.jpeg)
 # Irina Vorobei 
 
 #### Junior Front End Developer
