@@ -1,3 +1,4 @@
+![photo Irina Vorobei](/images/picture.jpg)
 # Irina Vorobei 
 
 #### Junior Front End Developer
@@ -36,17 +37,17 @@ Successful Travel manager with more than 10 years of professional experience. Dr
     Scheduled and promoted office events, including meetings, interviews and
     training sessions.
 ******
-###EDUCATION
+### EDUCATION
 **Masters degree, Kyiv Institute for the Humanities** *Internationals Relations department* 
 *SEPTEMBER 2004 — JULY 2010, Kyiv Ukraine*
 
-####Courses
+#### Courses
 1. Ticketing, Amadeus Global Distribution System, *Kyiv Ukraine - FEBRUARY 2012*
 2. Ticketing, Galileo Global Distribution System, *Kyiv, Ukraine - OCTOBER 2011*
 3. Basic Course, Galileo Global Distribution System, *Kyiv, Ukraine - OCTOBER 2011*
 ******
 
-###SKILLS
+### SKILLS
 * HTML basic
 * CSS basic
 * VS Code basic
@@ -57,3 +58,6 @@ Successful Travel manager with more than 10 years of professional experience. Dr
 * **Polish - A2**
 * **Ukrainian - native speaker**
 * **Russian - native speaker**
+******
+
+https://hexlet.io — https://verdant-raindrop-5880af.netlify.app/
