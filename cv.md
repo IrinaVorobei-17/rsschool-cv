@@ -1,3 +1,16 @@
+:::row:::
+   :::column span="":::
+![photo Irina Vorobei](/images/picture.jpg)
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum mollis nunc
+      ornare commodo. Nullam ac metus imperdiet, rutrum justo vel, vulputate leo. Donec
+      rutrum non eros eget consectetur.
+   :::column-end:::
+   :::column span="2":::
+      # Irina Vorobei
+      #### Junior Front End Developer
+   :::column-end:::
+:::row-end:::
+
 ![photo Irina Vorobei](/images/picture.jpg)
 # Irina Vorobei 
 
