@@ -1,4 +1,4 @@
-![photo Irina Vorobei](/img/photo.jpeg)
+![/img/photo.jpeg](photo Vorobei Irina)
 # Irina Vorobei 
 
 #### Junior Front End Developer
@@ -10,7 +10,7 @@ Successful Travel manager with more than 10 years of professional experience. Dr
 
 ### MY CONTACTS
 * **[vorobei.irina@gmail.com](mailto:vorobei.irina@gmail.com)**
-* **[0048574112756](tel:0048574112756)**
+* **[+48574112756](tel:48574112756)**
 ******
 
 ### WORK EXPERIENCE
