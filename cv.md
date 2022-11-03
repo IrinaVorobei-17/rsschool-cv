@@ -1,4 +1,4 @@
-<img src="/img/photo.jpeg"  width="150" height="200">
+<img src="/img/photo.jpeg"  width="160" height="200">
 # Irina Vorobei 
 
 #### Junior Front End Developer
