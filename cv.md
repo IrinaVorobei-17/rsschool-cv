@@ -1,4 +1,4 @@
-![photo Irina Vorobei](/images/photo.jpeg)
+![photo Irina Vorobei](/img/photo.jpeg)
 # Irina Vorobei 
 
 #### Junior Front End Developer
@@ -8,9 +8,9 @@
 
 Successful Travel manager with more than 10 years of professional experience. Driven self-starter and fast learner. Start studding in IT (HTML and CSS)
 
-### CONTACTS
-* **vorobei.irina@gmail.com**
-* **+48574112756**
+### MY CONTACTS
+* ** [vorobei.irina@gmail.com] (mailto:vorobei.irina@gmail.com) **
+* ** [0048574112756] (tel:0048574112756) **
 ******
 
 ### WORK EXPERIENCE
@@ -37,6 +37,7 @@ Successful Travel manager with more than 10 years of professional experience. Dr
     Scheduled and promoted office events, including meetings, interviews and
     training sessions.
 ******
+
 ### EDUCATION
 **Masters degree, Kyiv Institute for the Humanities** *Internationals Relations department* 
 *SEPTEMBER 2004 — JULY 2010, Kyiv Ukraine*
@@ -60,4 +61,4 @@ Successful Travel manager with more than 10 years of professional experience. Dr
 * **Russian - native speaker**
 ******
 
-https://hexlet.io — https://verdant-raindrop-5880af.netlify.app/
+[CV Vorobei Irina] (https://hexlet.io — https://verdant-raindrop-5880af.netlify.app/)
