@@ -1,4 +1,4 @@
-<img src="/img/photo.jpeg"  width="140" height="200">
+<img src="img/photo.jpeg"  width="140" height="200">
 
 # Irina Vorobei 
 
